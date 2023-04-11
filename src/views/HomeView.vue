@@ -3,5 +3,5 @@
 </script>
 
 <template>
-    <p>not anime</p>
+    <h2>not anime</h2>
 </template>
