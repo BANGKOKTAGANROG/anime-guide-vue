@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
-import HiMom from './components/HiMom.vue';
 </script>
 
 <template>
