@@ -12,6 +12,7 @@ body {
     background-color: var(--bg);
     font-family: 'Noto Sans', sans-serif;
     color: white;
+    overflow-x: hidden;
 }
 
 a {
